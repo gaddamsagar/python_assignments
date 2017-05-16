@@ -1,0 +1,6 @@
+Disease	Symptoms	Advice
+Cataract	Blurred Vision,Double Vision	Cataract Layer should be removed by surgery
+Cold	Running Nose,Body shivering	Cold Tablets and injection by doctor
+Heart Attack	inconsistent Heart beat,left hand paralysed	Angiogram test and surgery if needed
+Kidney Stones	Stomach pain	Drink lots of water, avoid eating tomato and spinach
+Diabetes	Dizzyness,low sugar in blood test,high sugar in blood test	eat and sleep on time, avoid eating sugar
